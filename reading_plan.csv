@@ -1,0 +1,366 @@
+Date,Passage
+1/1/24,Gen 1-2; Mat 1; Ps 1; Pro 1
+1/2/24,Gen 3-5; Ps 2; Pro 2
+1/3/24,Gen 6-7; Mat 2; Ps 3; Pro 3
+1/4/24,Gen 8-10; Mat 3; Ps 4; Pro 4
+1/5/24,Gen 11-12; Ps 5; Pro 5
+1/6/24,Gen 13-15; Mat 4; Ps 6; Pro 6
+1/7/24,Gen 16-17; Mat 5; Ps 7; Pro 7
+1/8/24,Gen 18-20; Ps 8; Pro 8
+1/9/24,Gen 21-22; Mat 6; Ps 9; Pro 9
+1/10/24,Gen 23-25; Mat 7; Ps 10; Pro 10
+1/11/24,Gen 26-27; Mat 8; Ps 11; Pro 11
+1/12/24,Gen 28-30; Ps 12; Pro 12
+1/13/24,Gen 31-33; Mat 9; Ps 13; Pro 13
+1/14/24,Gen 34-35; Mat 10; Ps 14; Pro 14
+1/15/24,Gen 36-38; Ps 15; Pro 15
+1/16/24,Gen 39-40; Mat 11; Ps 16; Pro 16
+1/17/24,Gen 41-43; Mat 12; Ps 17; Pro 17
+1/18/24,Gen 44-45; Mat 13; Ps 18; Pro 18
+1/19/24,Gen 46-48; Ps 19; Pro 19
+1/20/24,Gen 49-50; Mat 14; Ps 20; Pro 20
+1/21/24,Ex 1-3; Mat 15; Ps 21; Pro 21
+1/22/24,Ex 4-5; Ps 22; Pro 22
+1/23/24,Ex 6-8; Mat 16; Ps 23; Pro 23
+1/24/24,Ex 9-11; Mat 17; Ps 24; Pro 24
+1/25/24,Ex 12-13; Mat 18; Ps 25; Pro 25
+1/26/24,Ex 14-16; Ps 26; Pro 26
+1/27/24,Ex 17-18; Mat 19; Ps 27; Pro 27
+1/28/24,Ex 19-21; Mat 20; Ps 28; Pro 28
+1/29/24,Ex 22-23; Ps 29; Pro 29
+1/30/24,Ex 24-26; Mat 21; Ps 30; Pro 30
+1/31/24,Ex 27-28; Mat 22; Ps 31; Pro 31
+2/1/24,Ex 29-31; Mat 23; Ps 32; Pro 1
+2/2/24,Ex 32-33; Ps 33; Pro 2
+2/3/24,Ex 34-36; Mat 24; Ps 34; Pro 3
+2/4/24,Ex 37-39; Mat 25; Ps 35; Pro 4
+2/5/24,Ex 40; Lev 1; Ps 36; Pro 5
+2/6/24,Lev 2-4; Mat 26; Ps 37; Pro 6
+2/7/24,Lev 5-6; Mat 27; Ps 38; Pro 7
+2/8/24,Lev 7-9; Mat 28; Ps 39; Pro 8
+2/9/24,Lev 10-11; Ps 40; Pro 9
+2/10/24,Lev 12-14; Mk 1; Ps 41; Pro 10
+2/11/24,Lev 15-16; Mk 2; Ps 42; Pro 11
+2/12/24,Lev 17-19; Ps 43; Pro 12
+2/13/24,Lev 20-21; Mk 3; Ps 44; Pro 13
+2/14/24,Lev 22-24; Mk 4; Ps 45; Pro 14
+2/15/24,Lev 25-27; Mk 5; Ps 46; Pro 15
+2/16/24,Num 1-2; Ps 47; Pro 16
+2/17/24,Num 3-5; Mk 6; Ps 48; Pro 17
+2/18/24,Num 6-7; Mk 7; Ps 49; Pro 18
+2/19/24,Num 8-10; Ps 50; Pro 19
+2/20/24,Num 11-12; Mk 8; Ps 51; Pro 20
+2/21/24,Num 13-15; Mk 9; Ps 52; Pro 21
+2/22/24,Num 16-17; Mk 10; Ps 53; Pro 22
+2/23/24,Num 18-20; Ps 54; Pro 23
+2/24/24,Num 21-22; Mk 11; Ps 55; Pro 24
+2/25/24,Num 23-25; Mk 12; Ps 56; Pro 25
+2/26/24,Num 26-28; Ps 57; Pro 26
+2/27/24,Num 29-30; Mk 13; Ps 58; Pro 27
+2/28/24,Num 31-33; Mk 14; Ps 59; Pro 28
+2/29/24,Num 34-35; Mk 15; Ps 60; Pro 29
+3/1/24,Num 36; Deut 1-2; Ps 61; Pro 30
+3/2/24,Deut 3-4; Mk 16; Ps 62; Pro 31
+3/3/24,Deut 5-7; Luk 1; Ps 63; Pro 1
+3/4/24,Deut 8-9; Ps 64; Pro 2
+3/5/24,Deut 10-12; Luk 2; Ps 65; Pro 3
+3/6/24,Deut 13-14; Luk 3; Ps 66; Pro 4
+3/7/24,Deut 15-17; Luk 4; Ps 67; Pro 5
+3/8/24,Deut 18-20; Ps 68; Pro 6
+3/9/24,Deut 21-22; Luk 5; Ps 69; Pro 7
+3/10/24,Deut 23-25; Luk 6; Ps 70; Pro 8
+3/11/24,Deut 26-27; Ps 71; Pro 9
+3/12/24,Deut 28-30; Luk 7; Ps 72; Pro 10
+3/13/24,Deut 31-32; Luk 8; Ps 73; Pro 11
+3/14/24,Deut 33-34; Josh 1; Ps 74; Pro 12
+3/15/24,Josh 2-3; Luk 9; Ps 75; Pro 13
+3/16/24,Josh 4-6; Luk 10; Ps 76; Pro 14
+3/17/24,Josh 7-8; Luk 11; Ps 77; Pro 15
+3/18/24,Josh 9-11; Ps 78; Pro 16
+3/19/24,Josh 12-14; Luk 12; Ps 79; Pro 17
+3/20/24,Josh 15-16; Luk 13; Ps 80; Pro 18
+3/21/24,Josh 17-19; Ps 81; Pro 19
+3/22/24,Josh 20-21; Luk 14; Ps 82; Pro 20
+3/23/24,Josh 22-24; Luk 15; Ps 83; Pro 21
+3/24/24,Jdg 1-2; Luk 16; Ps 84; Pro 22
+3/25/24,Jdg 3-5; Ps 85; Pro 23
+3/26/24,Jdg 6-7; Luk 17; Ps 86; Pro 24
+3/27/24,Jdg 8-10; Luk 18; Ps 87; Pro 25
+3/28/24,Jdg 11-12; Ps 88; Pro 26
+3/29/24,Jdg 13-15; Luk 19; Ps 89; Pro 27
+3/30/24,Jdg 16-18; Luk 20; Ps 90; Pro 28
+3/31/24,Jdg 19-20; Luk 21; Ps 91; Pro 29
+4/1/24,Jdg 21; Rut 1-2; Ps 92; Pro 30
+4/2/24,Rut 3-4; Luk 22; Ps 93; Pro 31
+4/3/24,1 Sa 1-3; Luk 23; Ps 94; Pro 1
+4/4/24,1 Sa 4-5; Ps 95; Pro 2
+4/5/24,1 Sa 6-8; Luk 24; Ps 96; Pro 3
+4/6/24,1 Sa 9-10; John 1; Ps 97; Pro 4
+4/7/24,1 Sa 11-13; John 2; Ps 98; Pro 5
+4/8/24,1 Sa 14-15; Ps 99; Pro 6
+4/9/24,1 Sa 16-18; John 3; Ps 100; Pro 7
+4/10/24,1 Sa 19-21; John 4; Ps 101; Pro 8
+4/11/24,1 Sa 22-23; Ps 102; Pro 9
+4/12/24,1 Sa 24-26; John 5; Ps 103; Pro 10
+4/13/24,1 Sa 27-28; John 6; Ps 104; Pro 11
+4/14/24,1 Sa 29-31; John 7; Ps 105; Pro 12
+4/15/24,2 Sa 1-2; Ps 106; Pro 13
+4/16/24,2 Sa 3-5; John 8; Ps 107; Pro 14
+4/17/24,2 Sa 6-7; John 9; Ps 108; Pro 15
+4/18/24,2 Sa 8-10; Ps 109; Pro 16
+4/19/24,2 Sa 11-12; John 10; Ps 110; Pro 17
+4/20/24,2 Sa 13-15; John 11; Ps 111; Pro 18
+4/21/24,2 Sa 16-18; John 12; Ps 112; Pro 19
+4/22/24,2 Sa 19-20; Ps 113; Pro 20
+4/23/24,2 Sa 21-23; John 13; Ps 114; Pro 21
+4/24/24,2 Sa 24; 1 Kgs 1; John 14; Ps 115; Pro 22
+4/25/24,1 Kgs 2-4; Ps 116; Pro 23
+4/26/24,1 Kgs 5-6; John 15; Ps 117; Pro 24
+4/27/24,1 Kgs 7-9; John 16; Ps 118; Pro 25
+4/28/24,1 Kgs 10-11; John 17; Ps 119; Pro 26
+4/29/24,1 Kgs 12-14; Ps 120; Pro 27
+4/30/24,1 Kgs 15-16; John 18; Ps 121; Pro 28
+5/1/24,1 Kgs 17-19; John 19; Ps 122; Pro 29
+5/2/24,1 Kgs 20-22; Ps 123; Pro 30
+5/3/24,2 Kgs 1-2; John 20; Ps 124; Pro 31
+5/4/24,2 Kgs 3-5; John 21; Ps 125; Pro 1
+5/5/24,2 Kgs 6-7; Acts 1; Ps 126; Pro 2
+5/6/24,2 Kgs 8-10; Ps 127; Pro 3
+5/7/24,2 Kgs 11-12; Acts 2; Ps 128; Pro 4
+5/8/24,2 Kgs 13-15; Acts 3; Ps 129; Pro 5
+5/9/24,2 Kgs 16-17; Ps 130; Pro 6
+5/10/24,2 Kgs 18-20; Acts 4; Ps 131; Pro 7
+5/11/24,2 Kgs 21-22; Acts 5; Ps 132; Pro 8
+5/12/24,2 Kgs 23-25; Acts 6; Ps 133; Pro 9
+5/13/24,1 Chr 1-3; Ps 134; Pro 10
+5/14/24,1 Chr 4-5; Acts 7; Ps 135; Pro 11
+5/15/24,1 Chr 6-8; Acts 8; Ps 136; Pro 12
+5/16/24,1 Chr 9-10; Ps 137; Pro 13
+5/17/24,1 Chr 11-13; Acts 9; Ps 138; Pro 14
+5/18/24,1 Chr 14-15; Acts 10; Ps 139; Pro 15
+5/19/24,1 Chr 16-18; Acts 11; Ps 140; Pro 16
+5/20/24,1 Chr 19-20; Ps 141; Pro 17
+5/21/24,1 Chr 21-23; Acts 12; Ps 142; Pro 18
+5/22/24,1 Chr 24-25; Acts 13; Ps 143; Pro 19
+5/23/24,1 Chr 26-28; Ps 144; Pro 20
+5/24/24,1 Chr 29; 2 Chr 1-2; Acts 14; Ps 145; Pro 21
+5/25/24,2 Chr 3-4; Acts 15; Ps 146; Pro 22
+5/26/24,2 Chr 5-7; Ps 147; Pro 23
+5/27/24,2 Chr 8-9; Acts 16; Ps 148; Pro 24
+5/28/24,2 Chr 10-12; Acts 17; Ps 149; Pro 25
+5/29/24,2 Chr 13-14; Acts 18; Ps 150; Pro 26
+5/30/24,2 Chr 15-17; Ps 1; Pro 27
+5/31/24,2 Chr 18-19; Acts 19; Ps 2; Pro 28
+6/1/24,2 Chr 20-22; Acts 20; Ps 3; Pro 29
+6/2/24,2 Chr 23-24; Ps 4; Pro 30
+6/3/24,2 Chr 25-27; Acts 21; Ps 5; Pro 31
+6/4/24,2 Chr 28-30; Acts 22; Ps 6; Pro 1
+6/5/24,2 Chr 31-32; Acts 23; Ps 7; Pro 2
+6/6/24,2 Chr 33-35; Ps 8; Pro 3
+6/7/24,2 Chr 36; Ezr 1; Acts 24; Ps 9; Pro 4
+6/8/24,Ezr 2-4; Acts 25; Ps 10; Pro 5
+6/9/24,Ezr 5-6; Ps 11; Pro 6
+6/10/24,Ezr 7-9; Acts 26; Ps 12; Pro 7
+6/11/24,Ezr 10; Neh 1; Acts 27; Ps 13; Pro 8
+6/12/24,Neh 2-4; Acts 28; Ps 14; Pro 9
+6/13/24,Neh 5-6; Ps 15; Pro 10
+6/14/24,Neh 7-9; Rom 1; Ps 16; Pro 11
+6/15/24,Neh 10-12; Rom 2; Ps 17; Pro 12
+6/16/24,Neh 13; Est 1; Ps 18; Pro 13
+6/17/24,Est 2-4; Rom 3; Ps 19; Pro 14
+6/18/24,Est 5-6; Rom 4; Ps 20; Pro 15
+6/19/24,Est 7-9; Rom 5; Ps 21; Pro 16
+6/20/24,Est 10; Job 1; Ps 22; Pro 17
+6/21/24,Job 2-4; Rom 6; Ps 23; Pro 18
+6/22/24,Job 5-6; Rom 7; Ps 24; Pro 19
+6/23/24,Job 7-9; Ps 25; Pro 20
+6/24/24,Job 10-11; Rom 8; Ps 26; Pro 21
+6/25/24,Job 12-14; Rom 9; Ps 27; Pro 22
+6/26/24,Job 15-17; Rom 10; Ps 28; Pro 23
+6/27/24,Job 18-19; Ps 29; Pro 24
+6/28/24,Job 20-22; Rom 11; Ps 30; Pro 25
+6/29/24,Job 23-24; Rom 12; Ps 31; Pro 26
+6/30/24,Job 25-27; Ps 32; Pro 27
+7/1/24,Job 28-29; Rom 13; Ps 33; Pro 28
+7/2/24,Job 30-32; Rom 14; Ps 34; Pro 29
+7/3/24,Job 33-34; Rom 15; Ps 35; Pro 30
+7/4/24,Job 35-37; Ps 36; Pro 31
+7/5/24,Job 38-39; Rom 16; Ps 37; Pro 1
+7/6/24,Job 40-42; 1 Co 1; Ps 38; Pro 2
+7/7/24,Ps 1-3; Pro 3
+7/8/24,Ps 4-5; 1 Co 2; Pro 4
+7/9/24,Ps 6-8; 1 Co 3; Pro 5
+7/10/24,Ps 9-10; 1 Co 4; Pro 6
+7/11/24,Ps 11-13; Pro 7
+7/12/24,Ps 14-15; 1 Co 5; Pro 8
+7/13/24,Ps 16-18; 1 Co 6; Pro 9
+7/14/24,Ps 19-20; Pro 10
+7/15/24,Ps 21-23; 1 Co 7; Pro 11
+7/16/24,Ps 24-25; 1 Co 8; Pro 12
+7/17/24,Ps 26-28; 1 Co 9; Pro 13
+7/18/24,Ps 29-31; Pro 14
+7/19/24,Ps 32-33; 1 Co 10; Pro 15
+7/20/24,Ps 34-36; 1 Co 11; Pro 16
+7/21/24,Ps 37-38; Pro 17
+7/22/24,Ps 39-41; 1 Co 12; Pro 18
+7/23/24,Ps 42-43; 1 Co 13; Pro 19
+7/24/24,Ps 44-46; 1 Co 14; Pro 20
+7/25/24,Ps 47-48; Pro 21
+7/26/24,Ps 49-51; 1 Co 15; Pro 22
+7/27/24,Ps 52-53; 1 Co 16; Pro 23
+7/28/24,Ps 54-56; Pro 24
+7/29/24,Ps 57-59; 2 Co 1; Pro 25
+7/30/24,Ps 60-61; 2 Co 2; Pro 26
+7/31/24,Ps 62-64; 2 Co 3; Pro 27
+8/1/24,Ps 65-66; Pro 28
+8/2/24,Ps 67-69; 2 Co 4; Pro 29
+8/3/24,Ps 70-71; 2 Co 5; Pro 30
+8/4/24,Ps 72-74; Pro 31
+8/5/24,Ps 75-76; 2 Co 6; Pro 1
+8/6/24,Ps 77-79; 2 Co 7; Pro 2
+8/7/24,Ps 80-81; Pro 3
+8/8/24,Ps 82-84; 2 Co 8; Pro 4
+8/9/24,Ps 85-87; 2 Co 9; Pro 5
+8/10/24,Ps 88-89; 2 Co 10; Pro 6
+8/11/24,Ps 90-92; Pro 7
+8/12/24,Ps 93-94; 2 Co 11; Pro 8
+8/13/24,Ps 95-97; 2 Co 12; Pro 9
+8/14/24,Ps 98-99; Pro 10
+8/15/24,Ps 100-102; 2 Co 13; Pro 11
+8/16/24,Ps 103-104; Gal 1; Pro 12
+8/17/24,Ps 105-107; Gal 2; Pro 13
+8/18/24,Ps 108-109; Pro 14
+8/19/24,Ps 110-112; Gal 3; Pro 15
+8/20/24,Ps 113-115; Gal 4; Pro 16
+8/21/24,Ps 116-117; Pro 17
+8/22/24,Ps 118-120; Gal 5; Pro 18
+8/23/24,Ps 121-122; Gal 6; Pro 19
+8/24/24,Ps 123-125; Eph 1; Pro 20
+8/25/24,Ps 126-127; Pro 21
+8/26/24,Ps 128-130; Eph 2; Pro 22
+8/27/24,Ps 131-132; Eph 3; Pro 23
+8/28/24,Ps 133-135; Pro 24
+8/29/24,Ps 136-137; Eph 4; Pro 25
+8/30/24,Ps 138-140; Eph 5; Pro 26
+8/31/24,Ps 141-143; Eph 6; Pro 27
+9/1/24,Ps 144-145; Pro 28
+9/2/24,Ps 146-148; Phil 1; Pro 29
+9/3/24,Ps 149-150; Phil 2; Pro 30
+9/4/24,Pro 1-3; Ps 39
+9/5/24,Pro 4-5; Phil 3; Ps 40
+9/6/24,Pro 6-8; Phil 4; Ps 41
+9/7/24,Pro 9-10; Col 1; Ps 42
+9/8/24,Pro 11-13; Ps 43
+9/9/24,Pro 14-15; Col 2; Ps 44
+9/10/24,Pro 16-18; Col 3; Ps 45
+9/11/24,Pro 19-21; Ps 46
+9/12/24,Pro 22-23; Col 4; Ps 47
+9/13/24,Pro 24-26; 1 Th 1; Ps 48
+9/14/24,Pro 27-28; 1 Th 2; Ps 49
+9/15/24,Pro 29-31; Ps 50
+9/16/24,Ecc 1-2; 1 Th 3; Ps 51; Pro 31
+9/17/24,Ecc 3-5; 1 Th 4; Ps 52; Pro 1
+9/18/24,Ecc 6-7; Ps 53; Pro 2
+9/19/24,Ecc 8-10; 1 Th 5; Ps 54; Pro 3
+9/20/24,Ecc 11-12; 2 Th 1; Ps 55; Pro 4
+9/21/24,Sos 1-3; 2 Th 2; Ps 56; Pro 5
+9/22/24,Sos 4-6; Ps 57; Pro 6
+9/23/24,Sos 7-8; 2 Th 3; Ps 58; Pro 7
+9/24/24,Isa 1-3; 1 Ti 1; Ps 59; Pro 8
+9/25/24,Isa 4-5; Ps 60; Pro 9
+9/26/24,Isa 6-8; 1 Ti 2; Ps 61; Pro 10
+9/27/24,Isa 9-10; 1 Ti 3; Ps 62; Pro 11
+9/28/24,Isa 11-13; 1 Ti 4; Ps 63; Pro 12
+9/29/24,Isa 14-15; Ps 64; Pro 13
+9/30/24,Isa 16-18; 1 Ti 5; Ps 65; Pro 14
+10/1/24,Isa 19-20; 1 Ti 6; Ps 66; Pro 15
+10/2/24,Isa 21-23; Ps 67; Pro 16
+10/3/24,Isa 24-26; 2 Ti 1; Ps 68; Pro 17
+10/4/24,Isa 27-28; 2 Ti 2; Ps 69; Pro 18
+10/5/24,Isa 29-31; 2 Ti 3; Ps 70; Pro 19
+10/6/24,Isa 32-33; Ps 71; Pro 20
+10/7/24,Isa 34-36; 2 Ti 4; Ps 72; Pro 21
+10/8/24,Isa 37-38; Tit 1; Ps 73; Pro 22
+10/9/24,Isa 39-41; Ps 74; Pro 23
+10/10/24,Isa 42-43; Tit 2; Ps 75; Pro 24
+10/11/24,Isa 44-46; Tit 3; Ps 76; Pro 25
+10/12/24,Isa 47-48; Phlm; Ps 77; Pro 26
+10/13/24,Isa 49-51; Ps 78; Pro 27
+10/14/24,Isa 52-54; Heb 1; Ps 79; Pro 28
+10/15/24,Isa 55-56; Heb 2; Ps 80; Pro 29
+10/16/24,Isa 57-59; Ps 81; Pro 30
+10/17/24,Isa 60-61; Heb 3; Ps 82; Pro 31
+10/18/24,Isa 62-64; Heb 4; Ps 83; Pro 1
+10/19/24,Isa 65-66; Ps 84; Pro 2
+10/20/24,Jer 1-3; Heb 5; Ps 85; Pro 3
+10/21/24,Jer 4-5; Heb 6; Ps 86; Pro 4
+10/22/24,Jer 6-8; Heb 7; Ps 87; Pro 5
+10/23/24,Jer 9-10; Ps 88; Pro 6
+10/24/24,Jer 11-13; Heb 8; Ps 89; Pro 7
+10/25/24,Jer 14-16; Heb 9; Ps 90; Pro 8
+10/26/24,Jer 17-18; Ps 91; Pro 9
+10/27/24,Jer 19-21; Heb 10; Ps 92; Pro 10
+10/28/24,Jer 22-23; Heb 11; Ps 93; Pro 11
+10/29/24,Jer 24-26; Heb 12; Ps 94; Pro 12
+10/30/24,Jer 27-28; Ps 95; Pro 13
+10/31/24,Jer 29-31; Heb 13; Ps 96; Pro 14
+11/1/24,Jer 32-33; Jam 1; Ps 97; Pro 15
+11/2/24,Jer 34-36; Ps 98; Pro 16
+11/3/24,Jer 37-38; Jam 2; Ps 99; Pro 17
+11/4/24,Jer 39-41; Jam 3; Ps 100; Pro 18
+11/5/24,Jer 42-44; Jam 4; Ps 101; Pro 19
+11/6/24,Jer 45-46; Ps 102; Pro 20
+11/7/24,Jer 47-49; Jam 5; Ps 103; Pro 21
+11/8/24,Jer 50-51; 1 Pe 1; Ps 104; Pro 22
+11/9/24,Jer 52; Lam 1-2; Ps 105; Pro 23
+11/10/24,Lam 3-4; 1 Pe 2; Ps 106; Pro 24
+11/11/24,Lam 5; Eze 1-2; 1 Pe 3; Ps 107; Pro 25
+11/12/24,Eze 3-4; 1 Pe 4; Ps 108; Pro 26
+11/13/24,Eze 5-7; Ps 109; Pro 27
+11/14/24,Eze 8-9; 1 Pe 5; Ps 110; Pro 28
+11/15/24,Eze 10-12; 2 Pe 1; Ps 111; Pro 29
+11/16/24,Eze 13-15; Ps 112; Pro 30
+11/17/24,Eze 16-17; 2 Pe 2; Ps 113; Pro 31
+11/18/24,Eze 18-20; 2 Pe 3; Ps 114; Pro 1
+11/19/24,Eze 21-22; 1 Jn 1; Ps 115; Pro 2
+11/20/24,Eze 23-25; Ps 116; Pro 3
+11/21/24,Eze 26-27; 1 Jn 2; Ps 117; Pro 4
+11/22/24,Eze 28-30; 1 Jn 3; Ps 118; Pro 5
+11/23/24,Eze 31-32; Ps 119; Pro 6
+11/24/24,Eze 33-35; 1 Jn 4; Ps 120; Pro 7
+11/25/24,Eze 36-37; 1 Jn 5; Ps 121; Pro 8
+11/26/24,Eze 38-40; 2 Jn; Ps 122; Pro 9
+11/27/24,Eze 41-43; Ps 123; Pro 10
+11/28/24,Eze 44-45; 3 Jn; Ps 124; Pro 11
+11/29/24,Eze 46-48; Jude; Ps 125; Pro 12
+11/30/24,Dan 1-2; Ps 126; Pro 13
+12/1/24,Dan 3-5; Rev 1; Ps 127; Pro 14
+12/2/24,Dan 6-7; Rev 2; Ps 128; Pro 15
+12/3/24,Dan 8-10; Rev 3; Ps 129; Pro 16
+12/4/24,Dan 11-12; Ps 130; Pro 17
+12/5/24,Hos 1-3; Rev 4; Ps 131; Pro 18
+12/6/24,Hos 4-5; Rev 5; Ps 132; Pro 19
+12/7/24,Hos 6-8; Ps 133; Pro 20
+12/8/24,Hos 9-11; Rev 6; Ps 134; Pro 21
+12/9/24,Hos 12-13; Rev 7; Ps 135; Pro 22
+12/10/24,Hos 14; Joe 1-2; Rev 8; Ps 136; Pro 23
+12/11/24,Joe 3; Amo 1; Ps 137; Pro 24
+12/12/24,Amo 2-4; Rev 9; Ps 138; Pro 25
+12/13/24,Amo 5-6; Rev 10; Ps 139; Pro 26
+12/14/24,Amo 7-9; Ps 140; Pro 27
+12/15/24,Oba; Jon 1; Rev 11; Ps 141; Pro 28
+12/16/24,Jon 2-4; Rev 12; Ps 142; Pro 29
+12/17/24,Mic 1-2; Rev 13; Ps 143; Pro 30
+12/18/24,Mic 3-5; Ps 144; Pro 31
+12/19/24,Mic 6-7; Nah 1; Rev 14; Ps 145; Pro 1
+12/20/24,Nah 2-3; Rev 15; Ps 146; Pro 2
+12/21/24,Hab 1-3; Ps 147; Pro 3
+12/22/24,Zep 1-2; Rev 16; Ps 148; Pro 4
+12/23/24,Zep 3; Hag 1-2; Rev 17; Ps 149; Pro 5
+12/24/24,Zec 1-2; Rev 18; Ps 150; Pro 6
+12/25/24,Zec 3-5; Ps 1; Pro 7
+12/26/24,Zec 6-7; Rev 19; Ps 2; Pro 8
+12/27/24,Zec 8-10; Rev 20; Ps 3; Pro 9
+12/28/24,Zec 11-12; Ps 4; Pro 10
+12/29/24,Zec 13-14; Mal 1; Rev 21; Ps 5; Pro 11
+12/30/24,Mal 2-4; Rev 22; Ps 6; Pro 12
