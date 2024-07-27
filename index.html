@@ -8,19 +8,13 @@
         :root {
             --background-color: #f0f0f0;
             --text-color: #000;
-            --container-bg: #fff;
-            --button-bg: #007BFF;
-            --button-hover-bg: #0056b3;
-            --button-text-color: #fff;
+            --container-bg: rgba(255, 255, 255, 0.8);
         }
         @media (prefers-color-scheme: dark) {
             :root {
                 --background-color: #1a1a1a;
                 --text-color: #fff;
-                --container-bg: #333;
-                --button-bg: #444;
-                --button-hover-bg: #222;
-                --button-text-color: #fff;
+                --container-bg: rgba(51, 51, 51, 0.8);
             }
         }
         body, html {
@@ -33,6 +27,10 @@
             text-align: center;
             background-color: var(--background-color);
             color: var(--text-color);
+            background-image: url('your-background-image.jpg'); /* Replace with the path to your background image */
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
         }
         .container {
             max-width: 90%;
@@ -47,89 +45,72 @@
         p {
             font-size: 1.2em;
         }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+            display: block;
+            margin-top: 20px;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Daily Bible Verse</h1>
         <p id="date"></p>
-        <p id="verse">...</p>
+        <p id="verse-content">Loading...</p>
+        <a href="read-more.html">Read More</a>
     </div>
 
     <script>
-      const API_KEY = `d12bbf1a5c6e45bd54a498ad5bc7ae88`; // Fill in with your own key.
-const verse = document.querySelector(`#verse-content`);
-const verseRef = document.querySelector(`#verse`);
-const BIBLE_ID = `de4e12af7f28f599-01`;
-const VERSES = [
-  `JER.29.11`,
-  `PSA.23`,
-  `1COR.4.4-8`,
-  `PHP.4.13`,
-  `JHN.3.16`,
-  `ROM.8.28`,
-  `ISA.41.10`,
-  `PSA.46.1`,
-  `GAL.5.22-23`,
-  `HEB.11.1`,
-  `2TI.1.7`,
-  `1COR.10.13`,
-  `PRO.22.6`,
-  `ISA.40.31`,
-  `JOS.1.9`,
-  `HEB.12.2`,
-  `MAT.11.28`,
-  `ROM.10.9-10`,
-  `PHP.2.3-4`,
-  `MAT.5.43-44`,
-    `JER.29.11`,
-  `PSA.23`,
-  `1COR.4.4-8`,
-  `PHP.4.13`,
-  `JHN.3.16`,
-  `ROM.8.28`,
-  `ISA.41.10`,
-  `PSA.46.1`,
-  `GAL.5.22-23`,
-  `HEB.11.1`,
-  `2TI.1.7`,
-  `1COR.10.13`,
-  `PRO.22.6`,
-  `ISA.40.31`,
-  `JOS.1.9`,
-  `HEB.12.2`,
-  `MAT.11.28`,
-  `ROM.10.9-10`,
-  `PHP.2.3-4`,
-  `MAT.5.43-44`,
-];
-const verseIndex = new Date().getDate();
-const verseID = VERSES[verseIndex];
-        getResults(verseID).then((data) => {
-  const passage = data.passages[0];
-  verseRef.innerHTML = `<span><i>${passage.reference}</i></span>`;
-  verse.innerHTML = `<div class="text eb-container">${passage.content}</div>`;
-});
+        const API_KEY = 'd12bbf1a5c6e45bd54a498ad5bc7ae88'; // Fill in with your own key.
+        const verseContent = document.querySelector('#verse-content');
+        const BIBLE_ID = 'de4e12af7f28f599-01';
+        const VERSES = [
+            'JER.29.11', 'PSA.23', '1COR.4.4-8', 'PHP.4.13', 'JHN.3.16',
+            'ROM.8.28', 'ISA.41.10', 'PSA.46.1', 'GAL.5.22-23', 'HEB.11.1',
+            '2TI.1.7', '1COR.10.13', 'PRO.22.6', 'ISA.40.31', 'JOS.1.9',
+            'HEB.12.2', 'MAT.11.28', 'ROM.10.9-10', 'PHP.2.3-4', 'MAT.5.43-44'
+        ];
+        const verseIndex = new Date().getDate() % VERSES.length;
+        const verseID = VERSES[verseIndex];
+
         function getResults(verseID) {
-  return new Promise((resolve, reject) => {
-    const xhr = new XMLHttpRequest();
-    xhr.withCredentials = false;
-    xhr.addEventListener(`readystatechange`, function () {
-      if (this.readyState === this.DONE) {
-        const { data, meta } = JSON.parse(this.responseText);
-        _BAPI.t(meta.fumsId);
-        resolve(data);
-      }
-    });
-    xhr.open(
-      `GET`,
-      `https://api.scripture.api.bible/v1/bibles/${de4e12af7f28f599-01}/search?query=${verseID}`
-    );
-    xhr.setRequestHeader(`api-key`, API_KEY);
-    xhr.onerror = () => reject(xhr.statusText);
-    xhr.send();
-  });
-}
+            return new Promise((resolve, reject) => {
+                const xhr = new XMLHttpRequest();
+                xhr.withCredentials = false;
+                xhr.addEventListener('readystatechange', function () {
+                    if (this.readyState === this.DONE) {
+                        const response = JSON.parse(this.responseText);
+                        resolve(response);
+                    }
+                });
+                xhr.open('GET', `https://api.scripture.api.bible/v1/bibles/${BIBLE_ID}/verses/${verseID}`);
+                xhr.setRequestHeader('api-key', API_KEY);
+                xhr.onerror = () => reject(xhr.statusText);
+                xhr.send();
+            });
+        }
+
+        async function displayDailyVerse() {
+            const dateElement = document.getElementById('date');
+            const today = new Date();
+            const dateStr = today.toLocaleDateString("en-US", { month: 'long', day: 'numeric', year: 'numeric' });
+            dateElement.innerText = dateStr;
+
+            try {
+                const data = await getResults(verseID);
+                const passage = data.data;
+                verseContent.innerHTML = `<span><i>${passage.reference}</i></span> <div class="text eb-container">${passage.content}</div>`;
+            } catch (error) {
+                verseContent.innerText = 'Failed to load the verse. Please try again later.';
+                console.error('Error fetching the daily verse:', error);
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', displayDailyVerse);
     </script>
 </body>
 </html>
